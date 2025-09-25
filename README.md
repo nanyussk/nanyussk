@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Nany (nanyussk)
+# 👋 Olá, eu sou Nany
 
 💻 **Backend Developer** focado em **Python**  
 ⚡ Experiência com **Bots do Discord (discord.py)**, **APIs REST (FastAPI)** e **MongoDB/SQLite**  
