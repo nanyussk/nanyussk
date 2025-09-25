@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou Nany (nanyussk)
 
-<!--
-**nanyussk/nanyussk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Developer** focado em **Python**  
+⚡ Experiência com **Bots do Discord (discord.py)**, **APIs REST (FastAPI)** e **MongoDB/SQLite**  
+🔧 Produtividade no **Linux**, usando **Neovim** e **VSCode**  
 
-Here are some ideas to get you started:
+📫 **E-mail:** nanyussk@gmail.com  
+💬 **Discord:** [nanyus](https://discord.com/users/804509819254866000)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+<img title="Presença no Discord" src="https://lanyard.cnrad.dev/api/804509819254866000" href="https://discord.com/users/804509819254866000" width="60%" />
+
+</div>
+
+---
+
+## 💻 Linguagens & Ferramentas
+<div align="center">
+
+[![SkillIcons](https://skillicons.dev/icons?i=py,js,fastapi,mongodb,sqlite,linux,neovim,vscode,git,github,discord)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 Estatísticas do GitHub
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nanyussk&show_icons=true&theme=github_dark&count_private=true&hide_border=false&line_height=20)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nanyussk&layout=compact&langs_count=6&theme=github_dark&hide_border=false)
+
+</div>
