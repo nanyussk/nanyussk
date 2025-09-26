@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img title="Presença no Discord" src="https://lanyard.cnrad.dev/api/804509819254866000" href="https://discord.com/users/804509819254866000" width="60%" />
+<img title="Presença no Discord" src="https://lanyard.cnrad.dev/api/804509819254866000" href="https://discord.com/users/804509819254866000" width="50%" />
 
 </div>
 
@@ -27,9 +27,9 @@
 ---
 
 ## 🚀 Estatísticas do GitHub
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nanyussk&show_icons=true&theme=github_dark&count_private=true&hide_border=false&line_height=20)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nanyussk&layout=compact&langs_count=6&theme=github_dark&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=nanyussk&show_icons=true&theme=github_dark&count_private=true&hide_border=true&line_height=20" width="550"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanyussk&layout=compact&langs_count=6&theme=github_dark&hide_border=true" width="450"/>
 
 </div>
