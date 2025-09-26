@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Nany
 
 💻 **Backend Developer** focado em **Python**  
-⚡ Experiência com **Bots do Discord (discord.py)**, **APIs REST (FastAPI)** e **MongoDB/SQLite**  
+⚡ Experiência com **Bots do Discord (discord.py)**, **FastAPI** e **MongoDB/SQLite**  
 🔧 Produtividade no **Linux**, usando **Neovim** e **VSCode**  
 
 📫 **E-mail:** nanyussk@gmail.com  
