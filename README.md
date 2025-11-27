@@ -4,7 +4,7 @@
 ⚡ Experiência com **Bots do Discord (discord.py)**, **FastAPI** e **MongoDB/SQLite**  
 🔧 Produtividade no **Linux**, usando **Neovim** e **VSCode**  
 
-📫 **E-mail:** nanyussk@gmail.com  
+📫 **E-mail:** kauelima.kpl@gmail.com  
 💬 **Discord:** [nanyus](https://discord.com/users/804509819254866000)  
 
 ---
