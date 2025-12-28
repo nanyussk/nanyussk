@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Kaue
+# 👋 Olá!
 
 💻 **Backend Developer** focado em **Python**  
 ⚡ Experiência com **Bots do Discord (discord.py)**, **FastAPI** e **MongoDB/SQLite**  
