@@ -23,13 +23,3 @@
 [![SkillIcons](https://skillicons.dev/icons?i=py,js,fastapi,mongodb,sqlite,linux,neovim,vscode,git,github,discord)](https://skillicons.dev)
 
 </div>
-
----
-
-## 🚀 Estatísticas do GitHub
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nanyussk&show_icons=true&theme=github_dark&count_private=true&hide_border=true&line_height=20" width="450"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanyussk&layout=compact&langs_count=6&theme=github_dark&hide_border=true" width="350"/>
-
-</div>
