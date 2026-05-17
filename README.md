@@ -105,6 +105,8 @@ Desenvolvedor backend focado em sistemas assíncronos, automação e infraestrut
 
 <div align="center">
 
-> “Bom software é construído com clareza, não com complexidade.”
+ “Bom software é construído com clareza, não com complexidade.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D1D5DB&height=100&section=footer" width="100%" />
 
 </div>
