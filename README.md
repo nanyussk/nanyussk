@@ -6,12 +6,12 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=D1D5DB&center=true&vCenter=true&width=900&lines=Desenvolvedor+Backend;Rust+%26+Python+Developer;Sistemas+Assíncronos+%26+Automação;Infraestrutura+%26+Developer+Tooling)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=D1D5DB&center=true&vCenter=true&width=900&lines=Backend+Systems;Rust+%26+Python+Systems;Async+Architecture+%26+Automation;Infrastructure+%26+Developer+Tooling)](https://git.io/typing-svg)
 
 <br/>
 <br/>
 
-Desenvolvedor backend focado em sistemas assíncronos, automação e infraestrutura.
+Construindo sistemas backend, automação e infraestrutura.
 
 <br/>
 
@@ -31,19 +31,19 @@ Desenvolvedor backend focado em sistemas assíncronos, automação e infraestrut
 
 ---
 
-# 👨‍💻 Sobre Mim
+# 💻 Sobre
 
 - Construindo sistemas backend, bots e ferramentas de automação
-- Focado em performance, arquitetura e manutenção de software
-- Entusiasta de Linux e ambientes self-hosted
-- Explorando conceitos low-level e runtimes assíncronos com Rust
-- Interessado em sistemas escaláveis e experiência de desenvolvimento
+- Foco em performance, arquitetura e manutenção de software
+- Interesse em runtimes assíncronos, tooling e infraestrutura
+- Explorando conceitos low-level com Rust
+- Linux, containers e ambientes self-hosted como base de desenvolvimento
 
 ---
 
-# 🛠️ Stack Tecnológica
+# 🛠️ Stack
 
-### 💻 Linguagens
+### Linguagens
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
@@ -51,7 +51,7 @@ Desenvolvedor backend focado em sistemas assíncronos, automação e infraestrut
   <img src="https://img.shields.io/badge/Rust-181717?style=flat-square&logo=rust&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Infraestrutura
+### Backend & Infraestrutura
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-181717?style=flat-square&logo=fastapi&logoColor=009688"/>
@@ -61,18 +61,9 @@ Desenvolvedor backend focado em sistemas assíncronos, automação e infraestrut
   <img src="https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=FCC624"/>
 </p>
 
-### 🧰 Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neovim-181717?style=flat-square&logo=neovim&logoColor=57A143"/>
-  <img src="https://img.shields.io/badge/VSCode-181717?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
-</p>
-
 ---
 
-# 📊 Estatísticas do GitHub
+# 📊 GitHub
 
 <p align="center">
   <img
@@ -93,19 +84,9 @@ Desenvolvedor backend focado em sistemas assíncronos, automação e infraestrut
 
 ---
 
-# 🎯 Foco Atual
-
-- Arquitetura assíncrona com Rust
-- APIs backend e tooling
-- Automação de infraestrutura
-- Serviços dockerizados
-- Fundamentos de system design
-
----
-
 <div align="center">
 
- “Bom software é construído com clareza, não com complexidade.”
+“Clareza escala melhor que complexidade.”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D1D5DB&height=100&section=footer" width="100%" />
 
