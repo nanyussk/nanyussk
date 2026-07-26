@@ -2,7 +2,7 @@
 
 # Nanyus
 
-<img src="./offscript-circular.png" height="180" style="border-radius: 50%;" />
+<img src="./profile-circle.png" height="180" style="border-radius: 50%;" />
 
 <br/>
 
